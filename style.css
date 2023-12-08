@@ -178,18 +178,18 @@ th{
 }
 .vehicle-information__table-primary > * > * > th.bg-dark {
   background-color: var(--color-navy-dark);
-  padding-block: 1rem;
+  /* padding-block: 1rem; */
 }
 .vehicle-information__table-primary > * > * > th.bg-light {
   background-color: var(--color-navy);
-  padding-block: 0.7rem 1.3rem;
+  /* padding-block: 0.7rem 1.3rem; */
 }
 .vehicle-information__table-primary > tbody > tr > th {
   text-align: left;
   padding-left: 2.3rem;
 }
 .vehicle-information__table-primary > tbody > tr > td {
-  padding-block: 0.7rem 1.3rem;
+  /* padding-block: 0.7rem 1.3rem; */
   text-align: center;
   background-color: var(--color-white-grey);
   color: var(--color-black);
